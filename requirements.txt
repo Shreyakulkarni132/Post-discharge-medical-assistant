@@ -1,0 +1,11 @@
+crewai==0.22.5
+crewai-tools==0.0.14
+langchain-google-genai
+python-dotenv
+langchain==0.1.13
+chromadb==0.4.23
+sentence-transformers==3.0.1
+tiktoken
+PyPDF2
+flask
+streamlit
