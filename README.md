@@ -1,6 +1,6 @@
-# Post-discharge-medical-assistant 
 # After Doctor 
 
+The only medical consultation place where you go after your discharge. 
 Helps patients get personalized attention after discharge. Built using RAG and Multi Agent System. Includes SERP API + SQLite for backend.
 
 Project Overview
